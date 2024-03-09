@@ -1,3 +1,4 @@
 # Calculator
 This is simple calculator using Cascading Style Sheet (CSS)
-![image](https://github.com/Emmanuelvaram123/gitlearning/assets/162671200/304516bd-fd20-4191-9d86-ef89a5f626c9)
+
+![image](https://github.com/Emmanuelvaram123/gitlearning/assets/162671200/6b283a24-4aa2-4b95-ace3-692a68f2e884)
